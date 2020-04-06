@@ -12,6 +12,7 @@
     "@react-navigation/compat": "^5.1.0",
     "@react-navigation/native": "^5.0.8",
     "@react-navigation/stack": "^5.1.0",
+    "axios": "^0.19.2",
     "expo": "~36.0.0",
     "expo-location": "~8.0.0",
     "react": "~16.9.0",
@@ -23,7 +24,9 @@
     "react-native-safe-area-context": "0.6.0",
     "react-native-screens": "2.0.0-alpha.12",
     "react-native-web": "~0.11.7",
-    "react-navigation-stack": "^2.2.2"
+    "react-native-webview": "7.4.3",
+    "react-navigation-stack": "^2.2.2",
+    "socket.io-client": "^2.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
